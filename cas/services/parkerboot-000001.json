@@ -1,7 +1,0 @@
-{
-  "@class" : "org.apereo.cas.services.RegexRegisteredService",
-  "serviceId" : "https://localhost:8443",
-  "name" : "testJsonFile",
-  "id" : 000001,
-  "evaluationOrder" : 10
-}
